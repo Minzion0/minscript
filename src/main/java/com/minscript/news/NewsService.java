@@ -1,2 +1,4 @@
-package com.minscript.news;public class NewsService {
+package com.minscript.news;
+
+public class NewsService {
 }
