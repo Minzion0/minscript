@@ -14,3 +14,7 @@ spring:
     url: jdbc:mariadb://localhost:3307/minscript
     username: root
     password: green502
+
+open-api:
+  client-id: 6c1d_wx2wYAf73bPpAhj
+  client-secret: Pe9NsHDIy6
